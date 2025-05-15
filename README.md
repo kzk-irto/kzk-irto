@@ -1,26 +1,8 @@
 # 🐦‍🔥 Airton Gabriel
 
-**`Desenvolvedor Front-end`**
+**`Desenvolveloper Front-end`**
 
-Meu nome é Airton Gabriel, tenho 18 anos e sou natural do Paraná. Sou Formado pelo Colégio Antônio Xavier da Silveira, com o curso técnico em Análise e Desenvolvimento de Sistemas. Atualmente, estou cursando Ciências econômicas, pela UEPG. Sou apaixonado por aprender novos meios de facilitar e agilizar processos, gosto de entender como as cidades, pessoas e empresas buscam e utilizam das inovações!.
-
-<p align="left">
-    <p>
-    <a href="https://github.com/kzk-irto?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/kzk-irto?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+My name is Airton Gabriel, I am 18 years old and I am from Paraná. I graduated from Colégio Antônio Xavier da Silveira, with a technical course in Systems Analysis and Development. I am currently studying Economics at UEPG. I am passionate about learning new ways to facilitate and speed up processes, I like to understand how cities, people and companies seek and use innovations!.
 
 ---
 
